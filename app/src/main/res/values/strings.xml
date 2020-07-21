@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomAleartDialog</string>
+    <string name="title">New Title</string>
+    <string name="message">new Message</string>
+</resources>
